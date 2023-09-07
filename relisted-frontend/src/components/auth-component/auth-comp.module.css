@@ -1,0 +1,42 @@
+.google{
+    margin-top: -200px;
+}
+.google p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.google button{
+    width: 300px;
+    padding: 10px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    justify-content: space-between;
+    background-color: transparent;
+    border: 2px solid#000;
+    padding-right: 70px;
+    margin: 20px 0;
+}
+
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+
+.tag{
+    color: rgb(39, 95, 180);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.icon{
+    height: 50px;
+    width: 30px;
+    margin-left: 10px;
+    background-color: transparent;
+}
+
